@@ -1,0 +1,14 @@
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\bin\Debug\netcoreapp3.1\Interface-Classe.exe
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\bin\Debug\netcoreapp3.1\Interface-Classe.deps.json
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\bin\Debug\netcoreapp3.1\Interface-Classe.runtimeconfig.json
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\bin\Debug\netcoreapp3.1\Interface-Classe.runtimeconfig.dev.json
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\bin\Debug\netcoreapp3.1\Interface-Classe.dll
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\bin\Debug\netcoreapp3.1\Interface-Classe.pdb
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.csproj.AssemblyReference.cache
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.AssemblyInfoInputs.cache
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.AssemblyInfo.cs
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.dll
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.pdb
+C:\Users\Mustapha\source\repos\Interface-Classe\Interface-Classe\obj\Debug\netcoreapp3.1\Interface-Classe.genruntimeconfig.cache
